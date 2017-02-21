@@ -139,7 +139,7 @@ View的构造函数有四中重载方式，
                 android:background="#000000"/>
 ```
 现在的效果是， 黑色背景是为了突出尺寸
-![Alt text](./Screenshot from 2017-02-21 10-00-47.png)
+![Alt text](/assets/images/Screenshot from 2017-02-21 10-00-47.png)
 
 ### onMeasure()
 
@@ -186,7 +186,7 @@ View的构造函数有四中重载方式，
     }
 ```
 现在的效果是， 可能不太美观，有需要的自己再调一下合适的尺寸。
-![Alt text](./Screenshot from 2017-02-21 10-00-23.png)
+![Alt text](/assets/images/Screenshot from 2017-02-21 10-00-23.png)
 
 **按照流程来讲，下面就应该是布局咯，即onLayout， 本段内容后续补齐吧**
 
@@ -206,7 +206,7 @@ View的构造函数有四中重载方式，
     }
 ```
 效果图， 绿色线条会随着时间增加，一秒6度。看来我还是要先高搞清楚怎么制作动态图片。Crying。
-![Alt text](./Screenshot from 2017-02-21 11-03-34.png)
+![Alt text](/assets/images/Screenshot from 2017-02-21 11-03-34.png)
 
 ## 总结
 好啦，本篇暂时记录到这里，关于后续的自定义View，我会继续学习，继续记录，加油。
