@@ -1,7 +1,8 @@
 ---
 title: Fragment 初探(一)
 date: 2017-04-20 15:33:10
-tags:
+tags: Android, Fragment
+categories: Android
 ---
 ### 概述
 最近写项目的时候, 用到了fragment, 就想着系统学习一下,实现完还要整理下,毕竟技术这种东西,稍微时间长点就会忘记.

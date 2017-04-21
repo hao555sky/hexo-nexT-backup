@@ -1,7 +1,7 @@
 ---
 title: Service 初探
 date: 2016-12-08 16:25:49
-tags: Android
+tags: Android, Service
 categories: Android
 ---
 
